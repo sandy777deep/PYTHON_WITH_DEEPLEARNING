@@ -1,0 +1,7 @@
+Differences For Python2 and Python3
+
+1)In Python 2, it is not compulsory to use parenthesis.
+2)In Python 3, it is compulsory to use parenthesis.
+3)To make a string Unicode in Python 2, should use a character ‘u’. But in Python 3, string is Unicode by default.
+4)As Python 2 being there for a longer time, has more third-party module support. Some frameworks are still using Python 2 but Python 3 has limited third-party module support.
+5)Many libraries developed for Python 2 are not compatible in Python 3. The developers of libraries used in Python 3 has good standards and have enhanced the Machine Learning and Deep Learning libraries.
