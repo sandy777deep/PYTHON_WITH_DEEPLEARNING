@@ -1,4 +1,4 @@
-#Using KNeighborsClassifier and compare the accuracy
+
 
 from sklearn.datasets import fetch_20newsgroups
 
